@@ -1,0 +1,58 @@
+[
+{
+    "id": 1,
+    "image": "/img/board1.png",
+    "title": "Sardinia White",
+    "oldPrice": "449.99 SAR",
+    "newPrice": "312.49 SAR"
+},
+{
+    "id": 2,
+    "image": "/img/board2.png",
+    "title": "Sicily Grey 30×60",
+    "oldPrice": "449.99 SAR",
+    "newPrice": "312.49 SAR"
+},
+{
+    "id": 3,
+    "image": "/img/board3.png",
+    "title": "Sicily Grey",
+    "oldPrice": "449.99 SAR",
+    "newPrice": "312.49 SAR"
+},
+{
+    "id": 4,
+    "image": "/img/board4.png",
+    "title": "Sicily Grey Décor 30×60",
+    "oldPrice": "449.99 SAR",
+    "newPrice": "312.49 SAR"
+},
+{
+    "id": 5,
+    "image": "/img/board5.png",
+    "title": "Sicily Grey Pro",
+    "oldPrice": "449.99 SAR",
+    "newPrice": "312.49 SAR"
+},
+{
+    "id": 6,
+    "image": "/img/board6.png",
+    "title": "Sicily Grey Binding",
+    "oldPrice": "449.99 SAR",
+    "newPrice": "312.49 SAR"
+},
+{
+    "id": 7,
+    "image": "/img/board7.png",
+    "title": "Sardinia White Plus",
+    "oldPrice": "449.99 SAR",
+    "newPrice": "312.49 SAR"
+},
+{
+    "id": 8,
+    "image": "/img/board8.png",
+    "title": "Sicily Grey 30×60 Max",
+    "oldPrice": "449.99 SAR",
+    "newPrice": "312.49 SAR"
+}
+]

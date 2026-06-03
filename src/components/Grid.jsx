@@ -1,6 +1,6 @@
-import './Grid.css'
-import Card from './Card'
-import data from '../data.json'
+import './Grid.css';
+import Card from './Card';
+import data from '../data.json';
 
 function Grid() {
     return (
@@ -12,3 +12,5 @@ function Grid() {
         </div>
     )
 }
+
+export default Grid
